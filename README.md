@@ -1,2 +1,14 @@
-# calculadora
-Calculadora muy simple hecha en Python. Permite sumar, restar, multiplicar y dividir dos números. Ideal como primer ejercicio de programación.
+# Calculadora Básica en Python
+
+Este proyecto es una calculadora simple hecha en Python.  
+Permite realizar las siguientes operaciones entre dos números:
+
+- Suma  
+- Resta  
+- Multiplicación  
+- División  
+
+## ▶️ Cómo usar
+Ejecutar el archivo `calculadora.py`:
+
+
