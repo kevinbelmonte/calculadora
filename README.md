@@ -2,7 +2,6 @@
 
 Proyecto simple de calculadora hecha en Python.  
 Permite realizar operaciones básicas entre dos números.  
-Ideal para practicar entrada de datos, variables y operadores en Python.
 
 ---
 
